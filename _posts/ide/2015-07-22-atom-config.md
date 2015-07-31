@@ -10,7 +10,9 @@ tags : [atom]
 
 0. 在.atom目录下设置config.cson文件
 
+
 ```
+
 "*":
   "exception-reporting":
     userId: "db6fc426-e8b2-de72-0100-ab3382303fb9"
